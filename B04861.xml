@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for improving able beggars ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04861</idno><idno type="EEBO-CITATION">52529173</idno>
+  <idno type="VID">178857</idno>
+  <idno type="EEBO-PROQUEST">2240888247</idno>
+  
+            <idno type="STC">Wing P3725E</idno>
+            <idno type="STC">ESTC R182174</idno>
+            <idno type="OCLC">52529173</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178857)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2773:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for improving able beggars ...</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: creased, print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Beggars --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Poor laws --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:178857:1"/>
+            <head>
+               <hi>PROPOSALS FOR</hi> Improving able Beggars to the best Advan<g ref="char:EOLhyphen"/>tage.</head>
+            <p>ALL Laws that have hiterto been made in relation to the Poor, have been attended and rendred ineffectual by these following Dfficulties.
+<list>
+                  <item>1. Most or these Laws do appoint the imploying them at Work, and En<g ref="char:EOLhyphen"/>tertaining them within their own respective Paroches and Shires, whereas it is very well known, that these Paroches and Shires which produce most Poor, are least capable to afford them either Work or Entertainment.</item>
+                  <item>2. The executing of these Laws was committed to publick Officers, such as Justices of Peace, Sheriffs, Magistrats, <hi>&amp;c.</hi> And the Conduct of such of these Officers as were diligent, was always, and ever will be rendered ineffectual by the neglect of others. By this means, when idle People were attack't in one part of the Nation, where these publick Officers were diligent, they shifted a<g ref="char:EOLhyphen"/>way to another part where, these publick Officers were less diligent, where they frequently would force Charity and Contribution from Countrey-men, who at the same time would have been very willing to have intertained and imploy<g ref="char:EOLhyphen"/>ed them in Countrey-work, but wanted Power to force them to it.</item>
+                  <item>3. The subject of Work, which in most of these Acts is chalk't out for these idle poor People, is such work as is used in formed Manufactories, and in most of these Acts, the putting of them to Work is founded upon Projects of erecting of Manufactories for that purpose; And this one Circumstance of all others, tends most to impede and disappoint such lasting Measures as might be found to imploy the Poor constantly, throughly and certainly: For first, we have not at present so many formed Manufactories in the Kingdom, as will entertain at work the hundred part of the able idle Poor, and so they are at present unprovided untill Manufactories are set up, and the Law shall run in Disorder and Desuetude before these Manufactories are erected; Beside, there is not so much Work to be wrought in all the formed Manufactories that can be set up in <hi>Scotland,</hi> at least for many years, as will be capable to afford Im<g ref="char:EOLhyphen"/>ployment or Intertainment for half the Poor of the Nation, so that the remain<g ref="char:EOLhyphen"/>der of the Poor are not provided for; And besides all this, though it is a plain Advantage to any standing Manufactories, to have a priviledge to seaze able idle People, and make them work for their Bread, yet it were a plain Bur<g ref="char:EOLhyphen"/>den to the Nation, to erect publick Work-houses of purpose, where People
+<pb n="2" facs="tcp:178857:2"/> should be brought together to work under the Conduct of Managers, <hi>&amp;c.</hi> where the Product of their Work will not answer half the Expense, either through want of Skill in the Work-people, or want of Conduct, or unfaith<g ref="char:EOLhyphen"/>fulness of the Managers, when at the same time, if every privat Man were im<g ref="char:EOLhyphen"/>powered to Seize, detain and possess such able idle People▪ their Work should be communicat through the Nation to more Advantage, bo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h of their Owner<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and the Publick. And as to the building of Work houses <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y certain Towns, injoined by the Law, and for their receiving and intertaining at Work sturdy idle Beggers, Experience hath discovered, that it is utterly ineffectual, nor in<g ref="char:EOLhyphen"/>deed can it ever be made effectual: For neither have these Towns Ability to build such Houses, nor to support the Charge that will infallibly occur there<g ref="char:EOLhyphen"/>by, nor are there men to be found sufficiently qualified for such Performances, or whose Estate or Condition in the World will suffer them to follow such Methods, from which they can reap no particular Advantage to themselves.</item>
+               </list>
+            </p>
+            <p>For supplying the defects of these Laws, It is humbly Proposed to the Con<g ref="char:EOLhyphen"/>sideration of this Session o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament.</p>
+            <p>
+               <list>
+                  <item>1. That there be a Law made, by which any person whatsomever shall be Impowered to seize Beggers of whatsover Sex or Age, wherever they shall find them actually begging.</item>
+                  <item>2. That the person so seized, shall become Servant to the Party seizer as Master for ever, and to his Heirs in absolute Property, to be imployed by him, and disposed or sold by him as he shall think fit.</item>
+                  <item>3. That whatever the Servant shall acquire during his Service by his Labour or Industry, or what Wives or Children he shall get during that time, shall belong to his Master; but whatever did belong to him before his Service, or what shall fall to him by Succession or Donation, he shall have Power to dis<g ref="char:EOLhyphen"/>pose of the same at his pleasure▪</item>
+                  <item>4. That the Master shall have an absolute Power of Correction in what manner he shall think fit, by his own privat Authority, not extending to Death or Mutilation, and that this Punishment may either be inflicted in the Masters own Family, or by such as are by publick Magistrats appointed for such uses, who by the Act may be obliged to inflict the same, upon the application of the Master alone, and without any allowance of Fee for so doing.</item>
+                  <item>5. That the Master shall Entertain, Educat and Cloath his Servant with suffi<g ref="char:EOLhyphen"/>cient Cloathing and Maintainance.</item>
+                  <item>6. That any man may have power to sell himself or Children as Servants, at such Rates as the Purchaser and he can agree.</item>
+                  <item>7. To prevent any persons being taken up unjustly, the party seizing shall be oblidged within eight days after Seizure to present the party Seized to the next Justice of Peace, Sheriff or orher Magistrat within or without Burgh, and shall prove by the Oath of two sufficient Witnesses, that the party Seiz<g ref="char:EOLhyphen"/>ed was actually Begging. And shal get the name of the party seized Registrat in the Court-Books of the said Magistrat▪ and shall receive a Certificat of his having so done, Signed by the foresaid Magistrat, and shall afterwards affix his own Mark or Name upon the party Seized by a Collar or any such Badge as he shall think fit.</item>
+                  <item>8. That no person presume to seize or medle with any person carrying the Badge of another man, under the penalty of 500 Merks <hi>Scots,</hi> besides Resti<g ref="char:EOLhyphen"/>tution.</item>
+                  <item>9. To prevent any Misfortues that might fall out by Seizing of People, who by some accident of Shipwrack, Fire or such like, may be put to pre<g ref="char:EOLhyphen"/>sent Begging. Therefore no person is to be Seized, within holf a year after
+<pb n="3" facs="tcp:178857:2"/> their said Misfortunes, providing they show a Testimonial, declaring the same under the hands of the Magistrats of the place where the Misfortune did befall them.</item>
+                  <item>10. To Retrive Misfortunes occasioned by seasing of Children who per<g ref="char:EOLhyphen"/>haps either through Youthfulness, Ignorance or Discontent, may have gone a Begging from their Parents or Friends; Therefore, let all such be redeem<g ref="char:EOLhyphen"/>able within the space of a Year, upon paying such Expenses, as their Masters may have been at in entertaining them.</item>
+               </list>
+            </p>
+            <p>By what is above proposed the imploying and providing for the able Beg<g ref="char:EOLhyphen"/>gars, will certainly take effect: For whereas formerly the putting of them to Work was manadged by Overseers, who not finding any present Advan<g ref="char:EOLhyphen"/>tage to themselves by their Diligence in the matter, did quite neglect the same, or if any of them did carefully and diligently Discharge their Trust, the ef<g ref="char:EOLhyphen"/>fects of their Diligence was disappointed by the neglect of others; But in this case People shall find a present plain Advantage, which shall be oommuni<g ref="char:EOLhyphen"/>cate immediatly to all Degrees and Ranks of People. For if any Person of Quality hath a House to build, Gardens to cut out, Park Dykes to build, Ditches or Hedges to make, Grounds to drain, Whins or Broom to root out, or such like, he cannot fail of having it done by the one half as cheap as for<g ref="char:EOLhyphen"/>merly, by reason that he shall find a great many to Work for their Bread a<g ref="char:EOLhyphen"/>lone; If its an Inferior Farmer, he has beside some of the Work spoke of a<g ref="char:EOLhyphen"/>bove, Clodding of Ground in Seed-time, Hearding of Cattle, Shearing in Harvest, Grounds to clear of Stones, Whins or Broom, <hi>&amp;c.</hi> If a Trades<g ref="char:EOLhyphen"/>man, he can have Servants more easie, and if he breeds any to his Trade, he has their Labour all their Life for his Recompense.</p>
+            <p>It is to be observed, that this Proposal is not absolutely a new thing, for the 10th <hi>Act</hi> of the 22d. <hi>Parliament</hi> of K. <hi>Ja.</hi> 6. the same thing in some Measure is enacted, but hath never been effectual, partly by reason of some Methods and Qualifications, with which it is clogged, by which the practice of it is rendred uneasie, and partly by the little Advantage that could be got by it, by reason of the short time which wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> allowed for detaining of them; The same being only Temporary, and not for Life, as now is proposed.</p>
+            <p>What is said above, does relate to able Beggars, and outting them to Work: As to entertaining of old and Infirm People, let former Laws be revived, which are sufficient; Especially seing the Number of Beggars will be reduced to a very small Compass by the Method proposed above.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
